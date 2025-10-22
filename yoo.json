@@ -1,11 +1,10 @@
 {
-  "name": "At",
-  "description": "a",
+  "name": "theme 1",
+  "description": "theme 1 for Revenge",
   "authors": [
 
       {
           "name": "luka"
-        
       }
   ],
   "semanticColors": {
